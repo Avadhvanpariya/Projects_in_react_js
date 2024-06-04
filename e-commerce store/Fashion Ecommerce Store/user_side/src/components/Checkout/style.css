@@ -1,0 +1,31 @@
+.payment-method-selection {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.MuiFormControlLabel-root {
+  margin-bottom: 10px;
+}
+
+.MuiRadio-root {
+  color: #007bff; /* Change radio button color */
+}
+
+.MuiRadio-colorSecondary.Mui-checked {
+  color: #007bff; /* Change checked radio button color */
+}
+
+.add-to-cart {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-to-cart:hover {
+  background-color: #0056b3;
+}

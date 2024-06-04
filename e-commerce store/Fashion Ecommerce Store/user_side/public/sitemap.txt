@@ -1,0 +1,16 @@
+https://rajrachna.com/
+https://rajrachna.com/women
+https://rajrachna.com/product-view/:productName
+https://rajrachna.com/product-list
+https://rajrachna.com/contact-us
+https://rajrachna.com/blog
+https://rajrachna.com/add-to-cart
+https://rajrachna.com/check-out
+https://rajrachna.com/profile
+https://rajrachna.com/order-detail
+https://rajrachna.com/favorites
+https://rajrachna.com/shipping_details
+https://rajrachna.com/refund_policy
+https://rajrachna.com/privacy_policy
+https://rajrachna.com/terms-and-conditions
+https://rajrachna.com/video-shopping

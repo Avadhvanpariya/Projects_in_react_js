@@ -1,0 +1,12 @@
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.custom-carousel {
+    position: relative;
+    z-index: 1;
+}
+
+
